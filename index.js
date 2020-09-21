@@ -19,7 +19,7 @@ function increment(n){
 }
 
 function decrement(){
-  
+  return 
 }
 
 function makeInt(string){
