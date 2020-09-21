@@ -22,3 +22,10 @@ function decrement(){
   
 }
 
+function makeInt(string){
+  
+}
+
+function preserveDecimal(string){
+  
+}
