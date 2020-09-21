@@ -22,8 +22,8 @@ function decrement(n){
   return n -= 1
 }
 
-function makeInt('0'){
-  return parseInt('0', 10)
+function makeInt(n){
+  return parseInt('n', 10)
 }
 
 function preserveDecimal(string){
